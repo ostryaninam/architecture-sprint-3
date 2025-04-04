@@ -68,40 +68,29 @@
 
 ### 5. Визуализация контекста системы — диаграмма С4
 
-Добавьте сюда диаграмму контекста в модели C4.
+Диаграмма контекста в модели C4
 
-Чтобы добавить ссылку в файл Readme.md, нужно использовать синтаксис Markdown. Это делают так:
-
-```markdown
 [Яндекс диск](https://disk.yandex.ru/i/xB17K0JCYxttJg)
-```
 
 # Задание 2. Проектирование микросервисной архитектуры
 
 **Диаграмма контейнеров (Containers)**
 
-```markdown
 [Яндекс диск](https://disk.yandex.ru/i/OB2IOpMEQA0m_g)
-```
 
 **Диаграмма компонентов (Components)**
 
-```markdown
 [Яндекс диск](https://disk.yandex.ru/i/cF4FQsfDuOsv7w)
-```
+
 
 **Диаграмма кода (Code)**
 
-```markdown
 [Яндекс диск](https://disk.yandex.ru/i/1LI8kKxOsyLK3Q)
-```
 
 
 # Задание 3. Разработка ER-диаграммы
 
-```markdown
 [Яндекс диск](https://disk.yandex.ru/i/hq7rlzQzMXhXyA)
-```
 
 
 # ❌ Задание 4. Создание и документирование API
