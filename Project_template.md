@@ -73,7 +73,7 @@
 Чтобы добавить ссылку в файл Readme.md, нужно использовать синтаксис Markdown. Это делают так:
 
 ```markdown
-[https://disk.yandex.ru/i/xB17K0JCYxttJg](URL)
+[Яндекс диск](https://disk.yandex.ru/i/xB17K0JCYxttJg)
 ```
 
 # Задание 2. Проектирование микросервисной архитектуры
@@ -81,26 +81,26 @@
 **Диаграмма контейнеров (Containers)**
 
 ```markdown
-[https://disk.yandex.ru/i/OB2IOpMEQA0m_g](URL)
+[Яндекс диск](https://disk.yandex.ru/i/OB2IOpMEQA0m_g)
 ```
 
 **Диаграмма компонентов (Components)**
 
 ```markdown
-[https://disk.yandex.ru/i/cF4FQsfDuOsv7w](URL)
+[Яндекс диск](https://disk.yandex.ru/i/cF4FQsfDuOsv7w)
 ```
 
 **Диаграмма кода (Code)**
 
 ```markdown
-[https://disk.yandex.ru/i/1LI8kKxOsyLK3Q](URL)
+[Яндекс диск](https://disk.yandex.ru/i/1LI8kKxOsyLK3Q)
 ```
 
 
 # Задание 3. Разработка ER-диаграммы
 
 ```markdown
-[https://disk.yandex.ru/i/hq7rlzQzMXhXyA](URL)
+[Яндекс диск](https://disk.yandex.ru/i/hq7rlzQzMXhXyA)
 ```
 
 
