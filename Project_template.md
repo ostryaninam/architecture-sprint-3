@@ -90,7 +90,7 @@
 
 # Задание 3. Разработка ER-диаграммы
 
-[Яндекс диск](https://disk.yandex.ru/i/hq7rlzQzMXhXyA)
+[Яндекс диск](https://disk.yandex.ru/i/mDRo1e1dFD0xMQ)
 
 
 # ❌ Задание 4. Создание и документирование API
